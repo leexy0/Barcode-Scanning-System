@@ -1,7 +1,7 @@
 [
  {
   "docstatus": 0,
-  "doctype": "Custom Script",
+  "doctype": "Client Script",
   "dt": "Stock Entry",
   "modified": "2022-02-16 13:16:48.302398",
   "name": "Stock Entry-Client",
@@ -12,7 +12,7 @@
  },
  {
   "docstatus": 0,
-  "doctype": "Custom Script",
+  "doctype": "Client Script",
   "dt": "Delivery Note",
   "modified": "2022-02-16 13:17:26.477860",
   "name": "Delivery Note-Client",
@@ -23,7 +23,7 @@
  },
  {
   "docstatus": 0,
-  "doctype": "Custom Script",
+  "doctype": "Client Script",
   "dt": "Purchase Receipt",
   "modified": "2022-02-16 13:17:47.738530",
   "name": "Purchase Receipt-Client",
@@ -34,7 +34,7 @@
  },
  {
   "docstatus": 0,
-  "doctype": "Custom Script",
+  "doctype": "Client Script",
   "dt": "Work Order",
   "modified": "2022-02-07 16:13:45.255786",
   "name": "Work Order-Client",
